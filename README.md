@@ -20,3 +20,12 @@ Unsupervised Lifelong Learning
 * numpy== 1.24.3
 * torch== 2.0.1+cu117
 * torchvision== 0.15.2+cu117
+
+* Datastream generation and image rotation codes are taken from publicly available codes at https://tinyurl.com/AutonomousDCN
+
+#### Links for baselines' publicly avaiilable code used in our experiments
+* SCALE: Online Self-Supervised Lifelong Learning without Prior Knowledge -  https://github.com/Orienfish/SCALE
+* CaSSLe: Self-Supervised Models are Continual Learners - CaSSLe experiments were conducted with unknown task boundary settings with the CaSSLe code available at https://github.com/Orienfish/SCALE 
+* UPL-STAM: Unsupervised Progressive Learning and the STAM Architecture - https://github.com/CameronTaylorFL/stam
+* KIERA: Unsupervised Continual Learning via Self-Adaptive Deep Clustering Approach - https://tinyurl.com/AutonomousDCN
+
