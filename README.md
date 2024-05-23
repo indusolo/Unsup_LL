@@ -35,6 +35,12 @@ Unsupervised Lifelong Learning
 #### t-SNE plot of RMNIST original data distribution in latent space - $t_1$ to $t_4$ task distributions
 ![image](https://github.com/indusolo/Unsup_LL/assets/99342079/a961c5c4-b764-4b86-aa02-49e1c209f798)
 
-#### t-SNE plot of RMNIST SDG block generated data distribution in latent space - $t_1$ to $t_4$ task distributions
+#### t-SNE plot of SDG block generated RMNIST data distribution in latent space - $t_1$ to $t_4$ task distributions
 ![image](https://github.com/indusolo/Unsup_LL/assets/99342079/77f66f93-5e7e-4998-a8cd-feb63a2d6780)
+
+#### SVHN images generated from task signatures
+![image](https://github.com/indusolo/Unsup_LL/assets/99342079/ca4f08d2-04c5-4675-b2c0-1496c6de829f)
+
+
+
 
